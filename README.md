@@ -10,4 +10,5 @@ This is a simple Budget Tracker built with python. It will help users track thei
 - Python
 
 # To run this program
-![Screenshot 2024-12-11 133256](https://github.com/user-attachments/assets/2c03477d-c176-4b0d-81ea-4241ca027874)
+(https://github.com/user-attachments/assets/3c7d272a-4028-4797-b09c-c30d3925022a)
+
